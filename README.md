@@ -1,4 +1,4 @@
-Coursera Data Sciene repo
+Coursera - Data Science
 =============
 
 Coursera Data Scientist repo
